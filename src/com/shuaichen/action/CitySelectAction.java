@@ -24,7 +24,7 @@ public class CitySelectAction extends ActionSupport{
 
 
 
-
+    //添加了登录注册的功能
     //定义变量用来接收选择的是那个大区
     private int index;
     private List<Server> servers;
